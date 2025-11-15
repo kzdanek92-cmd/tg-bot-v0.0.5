@@ -205,15 +205,16 @@ MAJOR.MINOR.PATCH
 ## 📊 История версий проекта
 
 ```
-v0.0.1 — Initial Release (июль 2025)
-v0.0.2 — Core Functionality (август 2025)
-v0.0.3 — Handlers & Menus (сентябрь 2025)
-v0.0.4 — Database & Architecture (октябрь 2025)
+v0.0.1 — Initial Release (14 ноября 2025) ⭐ ПЕРВЫЙ РЕЛИЗ
+v0.0.2 — Core Functionality (12 ноября 2025)
+v0.0.3 — Handlers & Menus (13 ноября 2025)
+v0.0.4 — Database & Architecture (14 ноября 2025)
 v0.0.5 — Full Payments & Integration (15 ноября 2025) ← ТЕКУЩАЯ
-v0.0.6 — Refunds & Analytics (планируется)
-v0.0.7 — Notifications & Referrals (планируется)
-v0.0.8 — Premium & Scaling (планируется)
-v1.0.0 — Production Release 🎉 (планируется)
+v0.0.6 — AI Integration & Freelance Automation (планируется)
+v0.0.7 — Refunds & Analytics (планируется)
+v0.0.8 — Notifications & Referrals (планируется)
+v0.0.9 — International Expansion (планируется)
+v1.0.0 — Premium Release 🎉 (планируется)
 ```
 
 ---
